@@ -53,7 +53,7 @@ Sistema Transacional → Raw → Trusted → Analytics → Power BI
 | **Ticket Médio por Produto** | Valor médio das vendas por produto. |
 | **Evolução do Faturamento** | Tendência temporal do faturamento. |
 
-## 📚 Documentação Adicional
+### 📚 Documentação Adicional
 
 - 📖 [Dicionário de Dados](docs/dicionario_de_dados_dashboard_vendas.pdf)
 
