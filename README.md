@@ -68,6 +68,10 @@ total_vendas = DISTINCTCOUNT(fato_vendas[id_venda])
 -- Ticket Médio
 ticket_medio = DIVIDE([faturamento_total], [total_vendas])
 
+## 📚 Documentação Adicional
+
+- 📖 [Dicionário de Dados](docs/dicionario_de_dados_dashboard_vendas.pdf)
+
 ## 👤 Autor
 
 **Patrick Wallis Abreu Macedo**  
