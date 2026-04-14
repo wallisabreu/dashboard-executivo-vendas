@@ -80,6 +80,6 @@ Analista de Banco de Dados | Estudante de Engenharia de Software
 
 ## 📄 Licença
 
-Este projeto é destinado a fins educacionais e de portfólio.
-
-Sinta-se à vontade para utilizá-lo como referência para estudos e aprimoramento profissional.
+Este projeto está licenciado sob a **Licença MIT**.
+ 
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
